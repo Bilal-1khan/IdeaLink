@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"bilal khan",
+        "img":"images/profile1.png",
+        "idea":"IdeaLink convert your idea into business. This platform can people idea's into business",
+        "ideaImg":"https://plus.unsplash.com/premium_photo-1684979565865-3539a542296e?q=80&w=1783&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":2,
+        "name":"mishal khan",
+        "img":"images/profile2.png",
+        "idea":"E-Commerce website sell and purchase mens and womens clothes at reasonable price's",
+        "ideaImg":"https://cdn.pixabay.com/photo/2021/11/22/20/20/online-6817350_1280.jpg"
+    },
+    {
+        "id":3,
+        "name":"muhammad tajuddin",
+        "img":"images/profile3.png",
+        "idea":"Gym app which provide excellent excersie and diet plan. This will help people to maintain their health.",
+        "ideaImg":"https://cdn.pixabay.com/photo/2015/01/10/17/32/physiotherapy-595529_1280.jpg"
+    },
+    {
+        "id":4,
+        "name":"arzalan baig",
+        "img":"images/profile5.png",
+        "idea":"Opening digital pharmacy and providing medical facilities",
+        "ideaImg":"https://images.unsplash.com/photo-1622230208995-0f26eba75875?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":5,
+        "name":"ali ahmed",
+        "img":"images/profile4.png",
+        "idea":"I created a platform which deliever medicine at your door step",
+        "ideaImg":"https://images.yourstory.com/cs/2/f86c090087cc11eba777b34f5b721f5e/NewPhoto-BlinkIt-1656076381781.png?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75"
+    },
+    {
+        "id":6,
+        "name":"ali khan",
+        "img":"images/profile6.png",
+        "idea":"Hopes is the platform which not only provide medical facilities at low price but also operate at low price",
+        "ideaImg":"https://images.unsplash.com/photo-1584174594005-60a49c828bbc?q=80&w=2036&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

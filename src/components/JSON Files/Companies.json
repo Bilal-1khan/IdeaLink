@@ -1,0 +1,17 @@
+[
+  {
+    "img": "images/comp1.png",
+    "name": "Reon Energy",
+    "FirmType": "Solar Firm"
+  },
+  {
+    "img": "images/comp2.jpg",
+    "name": "Afiniti",
+    "FirmType": "IT Industry"
+  },
+  {
+    "img": "images/comp3.jpg",
+    "name": "System Limited",
+    "FirmType": "IT Industry"
+  }
+]
