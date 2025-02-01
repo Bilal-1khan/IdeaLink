@@ -25,3 +25,6 @@ dist-ssr
 
 # enviroment variable
 .env
+
+# functionality in component that im unable to do
+src/components.txt

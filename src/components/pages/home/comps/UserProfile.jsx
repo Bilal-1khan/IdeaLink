@@ -7,9 +7,9 @@ export default function UserProfile({width,maxWidth,smWidth}) {
             <div className='w-[4.375rem] rounded-[100%] border-white border-2 text-lg'>
               <img src="./images/profile1.png" className='w-full' alt="" />
             </div>
-            <p className='text-xl capitalize'>user name</p>{/* name */}
-            <p className='text-[1.1rem] capitalize'>skills</p>{/* skills */}
-            <p className='text-[1.1rem] capitalize'>city</p>{/* city */}
+            <p className='text-lg capitalize'>user name</p>
+            {/* <p className='text-[1.1rem] capitalize'>skills</p>
+            <p className='text-[1.1rem] capitalize'>city</p> */}
           </div> 
     </>
   )

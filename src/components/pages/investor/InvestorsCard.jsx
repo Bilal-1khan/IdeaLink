@@ -1,12 +1,21 @@
 import React, { useState } from "react";
-import {NavLink } from 'react-router-dom'
+import {NavLink, useNavigate } from 'react-router-dom'
 
-export default function InvestorsCard({ id,BgImg, Name, profile, headLine }) {
+export default function InvestorsCard(
+  { id,BgImg, Name, profile, headLine,card }
+) 
+
+{
+  const navigate = useNavigate('')
   const [cardId,setCardId ] = useState(id)
 
   function ViewInvestor() {
-    console.log(`individual card there id:${id}`);
-    
+
+    if (id === card.id) {
+      console.log(`working`);
+      console.log(card.InvesterName);
+      navigate('/investor-user')
+    }
   }
   return (
     <>

@@ -1,6 +1,7 @@
 [
     {
         "id":1,
+        "path":"/investor-user1",
         "BGImg":"https://images.unsplash.com/photo-1500673922987-e212871fec22?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "InvesterName":"hamza Khan",
         "profile":"images/profile7.jpeg",
@@ -8,6 +9,7 @@
     },
     {
         "id":2,
+        "path":"/investor-user2",
         "BGImg":"https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "InvesterName":"Bilal Khan",
         "profile":"images/profile1.png",
@@ -15,6 +17,7 @@
     },
     {
         "id":3,
+        "path":"/investor-user3",
         "BGImg":"https://plus.unsplash.com/premium_photo-1676150789916-2c7d1fdda6b9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "InvesterName":"Mishal Khan",
         "profile":"images/profile2.png",
@@ -22,6 +25,7 @@
     },
     {
         "id":4,
+        "path":"/investor-user4",
         "BGImg":"https://images.unsplash.com/photo-1511900443235-4ccc407e6051?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "InvesterName":"Ali Ahmed",
         "profile":"images/profile4.png",
@@ -29,6 +33,7 @@
     },
     {
         "id":5,
+        "path":"/investor-user5",
         "BGImg":"https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "InvesterName":"Ali Khan",
         "profile":"images/profile6.png",
@@ -36,6 +41,7 @@
     },
     {
         "id":6,
+        "path":"/investor-user6",
         "BGImg":"https://images.unsplash.com/photo-1512106475178-d4e2fffeb38e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "InvesterName":"Arzalan Baig",
         "profile":"images/profile5.png",
@@ -43,6 +49,7 @@
     },
     {
         "id":7,
+        "path":"/investor-user7",
         "BGImg":"https://images.unsplash.com/photo-1521078803125-7efd09b65b8f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "InvesterName":"Muhammad Tajuddin",
         "profile":"images/profile3.png",

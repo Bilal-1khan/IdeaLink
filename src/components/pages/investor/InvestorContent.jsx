@@ -14,6 +14,7 @@ const InvestorContent = () => {
             profile={card.profile}
             headLine={card.headLine}
             id={card.id}
+            card = {card}
           />
         ))
       }

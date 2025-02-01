@@ -21,8 +21,19 @@ import Home from "./pages/home/Home"
 import ShareLayout from "./sharelayout/ShareLayout"
 import PeopleIdea from './pages/PeopleIdea/PeopleIdea'
 import Investor from "./pages/investor/Investor"
+import Login from "./LoginSigin/Login"
+import Container from "./container/Container";
+import Input from './Input/Input'
+import Signup from "./LoginSigin/Signup";
+import InvestorForm from "./pages/investor/InvestorForm";
+import ProtectedRoute from "./Proctected/ProtectedRoute";
 
 export {
+  ProtectedRoute,
+  InvestorForm,
+  Signup,
+  Input,
+  Container,
   Home,
   ShareLayout,
   PeopleIdea,
@@ -46,4 +57,5 @@ export {
   UserProfile,
   PostView,
   Content,
+  Login
 };

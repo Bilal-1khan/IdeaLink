@@ -1,12 +1,11 @@
 import React from 'react'
-import {UserProfile,InvestorContent} from '../../../components/index'
+import {UserProfile,InvestorContent,Container} from '../../../components/index'
 import OpenInNewIcon from '@mui/icons-material/OpenInNew'
 
 const Investor = () => {
   
   return (
-    <div className="w-full h-full bg-[#1f1e1e]">
-        <div className="max-w-[1240px] m-auto">
+    <Container>
           <div className="flex text-white gap-5 justify-center p-6 max-md:flex-col max-md:items-center">
             <div className="sideBar w-[34.25rem] flex flex-col gap-3 max-sm:w-full max-md:w-full">
               <UserProfile maxWidth={"100%"} smWidth={"full"} />
@@ -19,8 +18,7 @@ const Investor = () => {
               <InvestorContent/>
             </div>
           </div>
-        </div>
-      </div>
+      </Container>
   )
 }
 

@@ -1,12 +1,11 @@
 import React from "react";
-import { Content, UserProfile } from "../../../components";
+import { Content, UserProfile, Container} from "../../../components";
 import OpenInNewIcon from "@mui/icons-material/OpenInNew";
 
 const PeopleIdea = () => {
   return (
     <>
-      <div className="w-full h-full bg-[#1f1e1e]">
-        <div className="max-w-[1240px] m-auto">
+    <Container>
           <div className="flex text-white gap-5 justify-center p-6 max-md:flex-col max-md:items-center">
             <div className="sideBar w-[25rem] max-sm:w-full max-md:w-full">
               <UserProfile maxWidth={"100%"} smWidth={"full"} />
@@ -19,8 +18,7 @@ const PeopleIdea = () => {
               <Content />
             </div>
           </div>
-        </div>
-      </div>
+    </Container>
     </>
   );
 };

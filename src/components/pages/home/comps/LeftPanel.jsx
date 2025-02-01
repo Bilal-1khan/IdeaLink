@@ -9,7 +9,7 @@ const LeftPanel = () => {
           maxWidth={'36rem'}
           smWidth={'full'}
           />
-          <PostView/>
+          {/* <PostView/> */}
         </div>
     </>
   )

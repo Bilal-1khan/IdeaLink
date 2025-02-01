@@ -20,7 +20,7 @@ function RightPanel() {
                 <p className="description text-sm text-gray-500">{Items.FirmType}</p>
                 <button 
                 className="send-btn bg-white text-[#272727] px-8 py-2 font-bold text-sm mt-2 rounded-xl">
-                  <SendIcon/>
+                  <SendIcon sx={{fontSize:"1rem"}}/>
                 </button>
               </div>
             </div>
